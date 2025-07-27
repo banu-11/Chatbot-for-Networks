@@ -1,0 +1,15 @@
+{
+    "girija": {
+        "default": [
+            {
+                "role": "user",
+                "content": "what is OSI model?"
+            },
+            {
+                "role": "assistant",
+                "content": "API Error: 404"
+            }
+        ],
+        "Network Chat - 2025-07-27 11:23:27": []
+    }
+}
